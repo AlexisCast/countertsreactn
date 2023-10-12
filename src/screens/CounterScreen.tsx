@@ -25,5 +25,6 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: 40,
     top: -15,
+    color: 'black',
   },
 });
